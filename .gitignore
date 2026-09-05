@@ -1,0 +1,17 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# build artefacts
+*.tar.gz
+*.Rcheck/
+..Rcheck/
+BKVerify.Rcheck/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
