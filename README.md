@@ -1,5 +1,7 @@
 # BKVerify
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22324545.svg)](https://doi.org/10.5281/zenodo.22324545)
+
 **Consistency auditing of reported plant breeding statistics.**
 
 Psychology has [statcheck](https://CRAN.R-project.org/package=statcheck), which
@@ -11,6 +13,11 @@ independent, they are linked by exact algebraic identities.
 
 `BKVerify` recomputes every derivable quantity and reports whether the printed
 values can be reconciled.
+
+## Citation
+
+Kumar, P. (2026). *BKVerify: Consistency Auditing of Reported Plant Breeding
+Statistics*. Zenodo. https://doi.org/10.5281/zenodo.22324545
 
 ---
 
